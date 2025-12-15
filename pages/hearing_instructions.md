@@ -42,8 +42,8 @@ Reference: Echoic Memory vs. Iconic Memory: How We Perceive the Past (healthline
 
 ## Materials
 
-* Listening Lotto: Sounds at Home [Box Set]
-* Listening Lotto: Sounds on the Farm [Box Set]
+* Listening Lotto: Sounds at Home [Box Set] - or choice of sound files
+* Listening Lotto: Sounds on the Farm [Box Set] - or choice of sound files
 * Electronic device (for sound files)
 * Speaker (or headphones)
 
