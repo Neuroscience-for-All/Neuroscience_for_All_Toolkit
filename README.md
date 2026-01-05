@@ -12,13 +12,13 @@ All of our administrative and activity materials (including training materials) 
 
 ### :clipboard: Administrative Materials
 
-Link to [Administrative Materials](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Administrative_materials.md)
+Link to [Administrative Materials](https://github.com/Neuroscience-for-All/Neuroscience_for_All_Toolkit/blob/main/Administrative_materials.md)
 
 Administrative materials for Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks
 
 ### :goggles: Activity Module Materials
 
-Link to [Activity Modules](https://github.com/cathynewman/UAB_Neuroscience_for_All/tree/main/Activity_modules.md)
+Link to [Activity Modules](https://github.com/Neuroscience-for-All/Neuroscience_for_All_Toolkit/blob/main/Activity_modules.md)
 
 Training and activity materials for **dissections** (sheep brain, sheep/cow eye) and **sensory activities** (touch, vision, taste, smell, hearing, muscles)
 
@@ -28,8 +28,8 @@ Do you have a question? Something not working right? Want help or feedback? Have
 
 A couple of options: **issues** or **discussion board**. Find both tabs at the top of this repository page or linked below:
 
-* :question: [ISSUES board](https://github.com/cathynewman/UAB_Neuroscience_for_All/issues) -- Great for questions and help
-* :speaking_head: [DISCUSSION board](https://github.com/cathynewman/UAB_Neuroscience_for_All/discussions) -- Great for general discussion
+* :question: [ISSUES board](https://github.com/Neuroscience-for-All/Neuroscience_for_All_Toolkit/issues) -- Great for questions and help
+* :speaking_head: [DISCUSSION board](https://github.com/Neuroscience-for-All/Neuroscience_for_All_Toolkit/discussions) -- Great for general discussion
 
 It doesn't really matter which place you choose to post in.
 
