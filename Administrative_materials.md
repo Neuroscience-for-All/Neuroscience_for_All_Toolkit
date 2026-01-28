@@ -1,5 +1,8 @@
 # Administrative Materials
 
+If you are interested in starting your own outreach programs, please feel free to use these administrative materials as a template to help!  These materials are for our  Brain Awareness Week, Brain Bites, Brain Chats, and Brain Snacks programs.  Feel free to suggest adding other materials that have been helpful as you develop your own programs.
+
+
 ## Brain Awareness Week
 
 * Daily schedule (2025) - [sheet](https://docs.google.com/spreadsheets/d/1OOI3Pxo8E37-T-nOIjI8fgcdsgCUvBvh3DPWNVPIDwE/edit?usp=drive_link)
